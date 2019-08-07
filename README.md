@@ -1,4 +1,4 @@
-# Anotações referentes ao cursos da formação de ciência de dados da Alura
+# Anotações referentes aos cursos da formação de ciência de dados da Alura
 ## - Cursos:
 - [x] Data Science: Primeiros passos
 - [ ] Data Science: Introdução ao Python Pandas
