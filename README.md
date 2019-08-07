@@ -1,7 +1,7 @@
 # Anotações referentes aos cursos da formação de ciência de dados da Alura
 ## - Cursos:
 - [x] Data Science: Primeiros passos
-- [ ] Data Science: Introdução ao Python Pandas
+- [x] Data Science: Introdução ao Python Pandas
 - [ ] Data analysis: introdução a séries temporais e análises
 - [ ] Data Science: Modelo e Regressão Linear
 - [ ] Data Science: Regressão Linear, assimetria, statsmodel
